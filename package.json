@@ -1,6 +1,6 @@
 {
   "name": "discord.userdata",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Allows you to fetch discord user's data by providing an ID.",
   "main": "index.js",
   "keywords": [
