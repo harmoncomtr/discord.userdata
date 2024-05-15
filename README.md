@@ -25,7 +25,7 @@ getUserData('1088812712873689208')
 
 ### Example Output
 
-```s
+```json
 {
   id: '1088812712873689208',
   username: 'harmon.com.tr',
