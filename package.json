@@ -1,0 +1,14 @@
+{
+  "name": "dud",
+  "version": "1.0.0",
+  "description": "Allows you to fetch discord user's data by providing an ID.",
+  "main": "index.js",
+  "keywords": [
+    "discord"
+  ],
+  "author": "Harmon Developer",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
