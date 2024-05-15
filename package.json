@@ -4,7 +4,16 @@
   "description": "Allows you to fetch discord user's data by providing an ID.",
   "main": "index.js",
   "keywords": [
-    "discord"
+    "discord",
+    "discord-fetcher",
+    "user-data",
+    "discord-user",
+    "fetch",
+    "discord-user-api",
+    "discord-api",
+    "discord-user",
+    "info-discord",
+    "info-user"
   ],
   "author": "Harmon Developer",
   "license": "ISC",
